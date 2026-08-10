@@ -43,7 +43,7 @@ Identificar antecipadamente clientes com maior probabilidade de churn pode ajuda
 
 ## Estrutura do projeto
 
-
+```text
 telco-customer-churn/
 │
 ├── data/
