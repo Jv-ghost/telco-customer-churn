@@ -65,7 +65,7 @@ telco-customer-churn/
 ├── README.md
 └── requirements.txt
 
-## Autor
+# Autor
 
 **João Vitor Duarte de Oliveira**
 
