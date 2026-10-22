@@ -415,10 +415,10 @@ O conjunto de dados utilizado neste projeto é o **IBM Telco Customer Churn**, c
 
 # Autor
 
-**João Vitor Duarte de Oliveira**
+**João Vitor Duarte de Oliveira**  
 Análise de Dados | Ciência de Dados | Python | SQL
 
 Projeto desenvolvido para fins de portfólio e aplicação prática de técnicas de Ciência de Dados e Machine Learning.
 
-**Github:** [Jv-ghoost](https://github.com/Jv_ghost)
+**Github:** [Jv-ghost](https://github.com/Jv_ghost)
 **LinkedIn:** [João Vitor de Oliveira](https://www.linkedIn.com/in/jvduarteolliveira)
